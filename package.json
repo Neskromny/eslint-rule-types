@@ -1,0 +1,16 @@
+{
+  "name": "eslint-rule-types",
+  "version": "1.0.0",
+  "description": "A ESLint rules for javascript optional types.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neskromny/eslint-rule-types"
+  },
+  "homepage": "https://github.com/Neskromny/eslint-rule-types",
+  "keywords": [
+    "eslint-rule",
+    "eslint",
+    "js types"
+  ]
+}
